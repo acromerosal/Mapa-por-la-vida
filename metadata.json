@@ -1,0 +1,6 @@
+{
+  "name": "Mapeo Ciudadano Colombia",
+  "description": "Plataforma interactiva para el mapeo colaborativo de actividades comunitarias y eventos sociales en Colombia con protección anti-spam.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
